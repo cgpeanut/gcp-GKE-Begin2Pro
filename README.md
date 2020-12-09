@@ -45,3 +45,12 @@
 - Finite Tasks and init Containers
 - Lab: Running a statefule cassandra database
 - QUIz: Google Kubernetes Advance GKE Operations Quiz
+
+# Chapter 5: Wrapping Up
+- What Have We Learned So Far?
+- Continuous Integration and Deployment
+- Operators: Adding Logic to Deployments
+- Istio and Service Meshes
+- Serverless on Kubernetes
+- What's Next for GKE?
+- Thank You and Goodbye
